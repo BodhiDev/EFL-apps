@@ -1,0 +1,15 @@
+Source: ecrire
+Section: editors
+Priority: optional
+Maintainer: Robert Wiley <ylee@bodhilinux.com>
+Build-Depends: debhelper (>=9), cmake, libefl-dev (>=1.16.0)
+Standards-Version: 3.9.6
+Homepage: https://git.enlightenment.org/apps/ecrire.git/
+#Vcs-Git: git://anonscm.debian.org/collab-maint/ecrire-0.1.0.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/ecrire-0.1.0.git
+
+Package: ecrire
+Architecture: any
+Depends: ${misc:Depends}, libc6 (>=0.21), libefl (>=1.16.0)
+Description: EFL Text Editor
+ A simple EFL based GUI for editing text files.

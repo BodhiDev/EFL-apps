@@ -1,5 +1,11 @@
+ecrire (0.1.2-1) bionic; urgency=medium
+
+  * UI improvements
+
+ -- Robert Wiley <ylee@bodhilinux.com>  Tue, 02 Jun 2020 06:37:09 -0400
+
 ecrire (0.1.1-1) bionic; urgency=medium
 
   * Initial release
 
- -- Robert Wiley <ylee@bodhilinux.com>  Sun, 11 Nov 2018 06:38:27 -0500
+ -- Robert Wiley <ylee@bodhilinux.com>  Sun, 11 Nov 2018 06:38:27 -0400

@@ -1,3 +1,10 @@
+evisum (0.50-3) bionic; urgency=medium
+
+  * Upstream release
+
+ -- Robert Wiley <ylee@bodhilinux.com>  Wed, 19 Aug 2020 08:22:31 -0400
+
+
 evisum (0.50-1) bionic; urgency=medium
 
   * Upstream release

@@ -14,5 +14,3 @@ Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: System Information (EFL)
  This is a process monitor and system monitor for Linux, macOS,
  FreeBSD, DragonFlyBSD and OpenBSD.
- .
- Includes 'tingle' a command-line utility for displaying sensor information.
